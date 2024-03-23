@@ -28,3 +28,7 @@ E:\BussinessProjects\opensources\TestShopping\Shopping\Shopping.Client\obj\Debug
 E:\BussinessProjects\opensources\TestShopping\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.pdb
 E:\BussinessProjects\opensources\TestShopping\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.genruntimeconfig.cache
 E:\BussinessProjects\opensources\TestShopping\Shopping\Shopping.Client\obj\Debug\net8.0\ref\Shopping.Client.dll
+E:\BussinessProjects\opensources\TestShopping\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.sourcelink.json
+E:\BussinessProjects\opensources\TestShopping\Shopping\Shopping.Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\BussinessProjects\opensources\TestShopping\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.csproj.AssemblyReference.cache
+E:\BussinessProjects\opensources\TestShopping\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.csproj.CopyComplete
